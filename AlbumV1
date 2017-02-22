@@ -4,14 +4,14 @@
     <div id="content area" style="size:30 color:red">
       <h1>Abrahadabra</h1>
     </div>
-    <div id="content area" style="size:24 color:black">
+    <div id="ContentArea" style="size:24; color:black;">
       <h2>Dimmu Borgir</h2>
     </div>
-    <div id="content area" style="size:20 color:black">
+    <div id="ContentArea" style="size:20; color:black;">
       <h3>September 22, 2010</h3>\
     </div>
       <p>Abrahadabra is the ninth studio album by Norwegian black metal band Dimmu Borgir, released in 2010. The first single from the album, "Gateways", was released on August 20 in Europe and August 24 in North America.</p>
-    <div id="content area" style="size:24 color:black">
+    <div id="ContentArea" style="size:24; color:black;">
       <h3>Band Members</h3>
     </div>
     <ul>
