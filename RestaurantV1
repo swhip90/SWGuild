@@ -18,5 +18,45 @@
       </b></div></td></tr>
   </center>
 
+<head>
+ <style type ="text/css" >
+   .footer{ 
+       position: fixed;     
+       text-align: center;    
+       bottom: 20px; 
+       width: 100%;
+          }  
+</style>
+</head>
+
+<head>
+ <style type ="text/css" >
+   .footer1{ 
+       position: fixed;     
+       text-align: center;    
+       bottom: 0px; 
+       width: 100%;
+          }  
+</style>
+</head>
+
+<head>
+ <style type ="text/css" >
+   .footer2{ 
+       position: fixed;     
+       text-align: center;    
+       bottom: 30px; 
+       width: 100%;
+          }  
+</style>
+</head>
+
+<body>
+    <div class="footer"><b>777 Octocrab Street, Seafoam Island, New Jersey, 98219</b></div>
+    <div class="footer1"><b>555-757-5757</b></div>
+    <div class="footer2"><hr width="100%"</hr></div>
+</body>
+
+
 
 </html>
