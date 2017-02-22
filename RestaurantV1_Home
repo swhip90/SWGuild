@@ -2,11 +2,11 @@
 <html>
   
 <center><h1>Shane's Seafood</h1></center>
-  <hr width="100%></hr> 
-    <a href="www.shaneseafood.com/Home">Home</a>
+  <hr>
+    <a href="file:///D:/Documents/Code%20Projects/RestaurantV1_Home.html">Home</a>
     <a href="www.shaneseafood.com/Menu">Menu</a>
     <a href="www.shaneseafood.com/Contact">Contact</a>
-  <hr width="100%"></hr>
+  <hr>
 
 <center>
   <img src="http://www.nrn.com/sites/nrn.com/files/uploads/2013/12/shrimp-stock_0.jpg" width="400px" height="150px">
