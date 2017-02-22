@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <title>Album Lab V1</title>
+    <center> 
+     <img src="https://feedbackmetal.files.wordpress.com/2013/02/dimmu-borgir-abrahadabra.jpg"
+      alt="Mask with three sets of eye sockets"
+      style="width: 500px;">		
+    <div id="content area" style="color: blue;">
+      <h1>Abrahadabra</h1>
+    </div>
+    <div>
+      <h3><a href="https://www.youtube.com/playlist?list=PL8MB-pCDcc61X_QaWCQjlQR87jb5jzkbP">Dimmu Borgir</a></h3>
+    </div>
+    <div>
+      <h4>September 22, 2010</h3>
+    <hr width="1200;" align="center;"></hr>
+      <h3>Band Members and Producers</h3>
+    </div>
+   </center>
+    <ul style="list-style-type: bullet;">
+      <li>Shagrath - Vocals</li>
+      <li>Galder - Lead Guitar</li>
+      <li>Silenoz - Guitar, Backing Vocals</li>
+      <li>Dimmu Borgir - Producers
+    </ul>
+    <table border=1 width=100% >
+       <tr bgcolor="gray">
+	 <th>Track #</th>
+	 <th>Track Title</th>
+	 <th>Track Length</th>
+       </tr>
+       <tr>
+	 <td>Track #1</td>
+	 <td>Xibir</td>
+	 <td>2:50</td>
+       </tr>
+       <tr>
+	 <td>Track #2</td>
+	 <td>Born Treacherous</td>
+	 <td>5:01</td>
+       </tr>
+       <tr>
+	 <td>Track #3</td>
+	 <td>Chess With The Abyss</td>
+	 <td>3:08</td>
+</html>
