@@ -1,0 +1,37 @@
+<!DOCTYPE>
+ 
+<html>
+ 
+	<table border ="0" width="30%" height="60%">	
+	<form action="contactInfo.html" method="POST" >
+	  
+    <tr><td align="right">First Name:</td>
+			<td align="right"><input type="text" name="name1"></td></tr>
+		
+    <tr><td align="right">Last Name:</td>
+			<td align="right"><input type="text" name="name2"/></td></tr>   
+		
+    <tr><td align="right">E-Mail:</td>
+			<td align="right"><input type="text" name="email"/></td></tr>
+		
+    <tr><td align="right">Type of License:</td>
+			<td align="right"><input type="radio" name="answer" value="Business" />Business<input type="radio" name="answer" value="Personal"/>Personal</td>
+		
+    <tr><td align="right">Reason:</td>
+			<td align="right"><select name="reason" style="width:164">
+			  <option value="Select Reason">Select Reason</option>
+			  <option value="Software Support">Software Support</option>
+			  <option value="Hardware Support">Hardware Support</option>
+			  <option value="Information Request">Information Support</option>
+		  </select></td></tr>     
+		
+    <tr><td align="right">Additional Information:</td>
+		    <td align="right"><textarea name="briefDescription"></textarea></td></tr> 
+		
+    <tr><td colspan="2" align="right"><input type="checkbox" name="myChoices" value="TOS"/>I have read the terms of service.</tr>
+
+		<tr><td colspan="2" align="right"><input type="submit" value="Send Request"/></tr>
+    
+	</form>  
+	</table>
+</html>
