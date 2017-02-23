@@ -7,19 +7,60 @@
     <a href="www.shaneseafood.com/Menu">Menu</a>
     <a href="www.shaneseafood.com/Contact">Contact</a>
   <hr width="100%"></hr>
-
-<center>
-  <img src="http://www.nrn.com/sites/nrn.com/files/uploads/2013/12/shrimp-stock_0.jpg" width="400px" height="150px">
-    <div style="width:380px;height:auto;padding:10px;border:1px solid black;margin: auto;text-align: left;">
-       <b>Shane's Seafood</b> 
-        <div>
-          <b>We here at Shane's Seafood pride ourselves on quality five-star dishes at affordable prices. We use top of the line ingredients to bring the most satisfying tastes to our valued customers. You will not find a more humble yet luxurious seafood restaurant this side of the eastern seaboard. Having been in business for never, we can guarantee that none of this really exists, but we encourage one to dream and imagine how good it might be if it did. So maybe one day you can actually bring your friends and family and come on down to Shane's Seafood and bask in the smells, breezes, and great tastes of the deep blue Atlantic Ocean!
-        </b></div>
-      </div>
-  </center>
+  
+<table border="0" width="100%" margin="right">
+  <tr>
+    <td align="center">
+      <b>JUMBO SHRIMP WRAPS</b>
+        <p>Char-grilled bacon-wrapped shrimp</p>
+        <p>filled with Pepper Jack cheese</p>
+        <p>& a sliver of jalapeño with dirty rice.</p>
+        <b>$35.99</b>
+    </td>
+    <td align="center">
+     <b>SEAFOOD SALAD</b>
+      <p>Jumbo lump crabmeat & shrimp over an iceberg & spinach mix</p>
+      <p>with Applewood smoked bacon, bleu cheese,</p>
+      <p>avocado & tomato, drizzled with vinaigrette</p>
+      <b>$17.99</b>
+    </td>
+    <td align="center">
+      <b>CRISPY SALMON</b>
+       <p>Crisp spicy seared Atlantic salmon,</p> 
+       <p>grilled shrimp, crabmeat</p>
+       <p>with fresh sautéed spinach</p>
+       <b>$30.99</b>
+     </td>
+  </tr>  
+</table>
+<table border="0" width="95%" margin="center">
+  <tr>
+    <td align="center">
+     <b>CLAMS CASINO</b>
+      <p>Six top neck clams minced 
+      <p>with house pepper mix topped 
+      <p>with bacon and mozzarella cheese</p>
+      <b>$38.99</b>
+    </td>
+    <td align="center">
+     <b>SHELLFISH SCAMPI</b>
+      <p>Lobster Tail, Shrimp, Scallops, Clams, Mussels & Crab Cluster,</p>
+      <p>Sauteed in White Wine, Garlic and Spices</p>
+      <p>or Fra Diavolo, over Linguine</p>
+      <b>$47.99</b>
+    </td>
+    <td align="center">
+     <b>SHANGHAI-STYLE FRIED CALAMARI</b>
+      <p>Sweet Chili Glaze, Bean Sprouts,</p> 
+      <p>Cherry Peppers, Crushed Peanuts </p>
+      <p>& Scallions</p>
+      <b>$40.99</b>
+    </td>
+  </tr>
+</table>
 
 <head>
- <style type ="text/css" >
+ <style type ="text/css">
    .footer{ 
        position: fixed;     
        text-align: center;    
@@ -30,7 +71,7 @@
 </head>
 
 <head>
- <style type ="text/css" >
+ <style type ="text/css">
    .footer1{ 
        position: fixed;     
        text-align: center;    
@@ -41,7 +82,7 @@
 </head>
 
 <head>
- <style type ="text/css" >
+ <style type ="text/css">
    .footer2{ 
        position: fixed;     
        text-align: center;    
