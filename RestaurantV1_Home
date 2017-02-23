@@ -58,7 +58,7 @@
         <input type="checkbox" name="myChoices" value="TOS"/>M
         <input type="checkbox" name="myChoices" value="TOS"/>T
         <input type="checkbox" name="myChoices" value="TOS"/>W
-        <input type="checkbox" name="myChoices" value="TOS"/>T
+        <input type="checkbox" name="myChoices" value="TOS"/>Th
         <input type="checkbox" name="myChoices" value="TOS"/>F
     </tr>
 
