@@ -2,69 +2,101 @@
 <html>
   
 <center><h1>Shane's Seafood</h1></center>
-  <hr width="100%></hr> 
-    <a href="www.shaneseafood.com/Home">Home</a>
-    <a href="www.shaneseafood.com/Menu">Menu</a>
+  <hr>
+    &nbsp;&nbsp;
+    <a href="file:///D:/Documents/Code%20Projects/RestaurantV1_Home.html">Home</a>
+    &nbsp;&nbsp;
+    <a href="file:///D:/Documents/Code%20Projects/RestaurantV1_Menu.html">Menu</a>
+    &nbsp;&nbsp;
     <a href="www.shaneseafood.com/Contact">Contact</a>
-  <hr width="100%"></hr>
-  
-<table border="0" width="100%" margin="right">
+  <hr>
+
+<table align="center" border="0" width="100%" margin="10px">
+
+  <tr style="background-color: transparent;"><td colspan="3">&nbsp;</td></tr>
+  <tr style="background-color: transparent;"><td colspan="3">&nbsp;</td></tr>
+  <tr style="background-color: transparent;"><td colspan="3">&nbsp;</td></tr>
+  <tr style="background-color: transparent;"><td colspan="3">&nbsp;</td></tr>
+
   <tr>
     <td align="center">
       <b>JUMBO SHRIMP WRAPS</b>
-        <p>Char-grilled bacon-wrapped shrimp</p>
-        <p>filled with Pepper Jack cheese</p>
-        <p>& a sliver of jalapeño with dirty rice.</p>
+        <div>&nbsp</div>
+        Char-grilled bacon-wrapped shrimp
+        filled with Pepper Jack cheese
+        & a sliver of jalapeño with dirty rice.
+        <div>&nbsp</div>
         <b>$35.99</b>
     </td>
     <td align="center">
      <b>SEAFOOD SALAD</b>
-      <p>Jumbo lump crabmeat & shrimp over an iceberg & spinach mix</p>
-      <p>with Applewood smoked bacon, bleu cheese,</p>
-      <p>avocado & tomato, drizzled with vinaigrette</p>
+        <div>&nbsp</div>
+      Jumbo lump crabmeat & shrimp over iceberg & spinach mix
+      with Applewood smoked bacon, bleu cheese,
+      avocado & tomato, drizzled with vinaigrette
+        <div>&nbsp</div>
       <b>$17.99</b>
     </td>
     <td align="center">
       <b>CRISPY SALMON</b>
-       <p>Crisp spicy seared Atlantic salmon,</p> 
-       <p>grilled shrimp, crabmeat</p>
-       <p>with fresh sautéed spinach</p>
+        <div>&nbsp</div>
+       Crisp spicy seared Atlantic salmon, 
+       grilled shrimp, crabmeat
+       with fresh sautéed spinach
+        <div>&nbsp</div>
        <b>$30.99</b>
      </td>
   </tr>  
-</table>
-<table border="0" width="95%" margin="center">
+
+  <tr style="background-color: transparent;"><td colspan="3">&nbsp;</td></tr>
+  <tr style="background-color: transparent;"><td colspan="3">&nbsp;</td></tr>
+  <tr style="background-color: transparent;"><td colspan="3">&nbsp;</td></tr>
+  <tr style="background-color: transparent;"><td colspan="3">&nbsp;</td></tr>
+
   <tr>
     <td align="center">
      <b>CLAMS CASINO</b>
-      <p>Six top neck clams minced 
-      <p>with house pepper mix topped 
-      <p>with bacon and mozzarella cheese</p>
+        <div>&nbsp</div>
+      Six top neck clams minced 
+      with house pepper mix topped 
+      with bacon and mozzarella cheese
+        <div>&nbsp</div>
       <b>$38.99</b>
     </td>
     <td align="center">
      <b>SHELLFISH SCAMPI</b>
-      <p>Lobster Tail, Shrimp, Scallops, Clams, Mussels & Crab Cluster,</p>
-      <p>Sauteed in White Wine, Garlic and Spices</p>
-      <p>or Fra Diavolo, over Linguine</p>
+        <div>&nbsp</div>
+      Lobster Tail, Shrimp, Scallops, Clams, Mussels & Crab,
+      Sauteed in White Wine, Garlic and Spices
+      or Fra Diavolo, over Linguine
+        <div>&nbsp</div>
       <b>$47.99</b>
     </td>
     <td align="center">
      <b>SHANGHAI-STYLE FRIED CALAMARI</b>
-      <p>Sweet Chili Glaze, Bean Sprouts,</p> 
-      <p>Cherry Peppers, Crushed Peanuts </p>
-      <p>& Scallions</p>
+        <div>&nbsp</div>
+      Sweet Chili Glaze, Bean Sprouts, 
+      Cherry Peppers, Crushed Peanuts 
+      & Scallions
+        <div>&nbsp</div>
       <b>$40.99</b>
     </td>
   </tr>
 </table>
 
 <head>
+<style type="text/css">
+table { table-layout: fixed; }
+td { width: 33%; }
+</style>
+</head>
+
+<head>
  <style type ="text/css">
    .footer{ 
        position: fixed;     
        text-align: center;    
-       bottom: 20px; 
+       bottom: 25px; 
        width: 100%;
           }  
 </style>
@@ -86,7 +118,7 @@
    .footer2{ 
        position: fixed;     
        text-align: center;    
-       bottom: 30px; 
+       bottom: 35px; 
        width: 100%;
           }  
 </style>
@@ -95,7 +127,7 @@
 <body>
     <div class="footer"><b>777 Octocrab Street, Seafoam Island, New Jersey, 98219</b></div>
     <div class="footer1"><b>555-757-5757</b></div>
-    <div class="footer2"><hr width="100%"</hr></div>
+    <div class="footer2"><hr></div>
 </body>
 
 
